@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MI_Home_Final" transform="translate(-262.000000, -3459.000000)" fill="#DF1995" fill-rule="nonzero">
+            <g id="Events" transform="translate(259.000000, 3073.000000)">
+                <g id="Group-4-Copy-2" transform="translate(2.000000, 80.000000)">
+                    <g id="card-1-copy" transform="translate(0.000000, 241.000000)">
+                        <path d="M7,65 C3.68653125,65 1,67.6865313 1,71 C1,74.3134687 7,81 7,81 C7,81 13,74.3134687 13,71 C13,67.6865313 10.3134688,65 7,65 Z M7,74.5 C5.067125,74.5 3.5,72.932875 3.5,71 C3.5,69.067125 5.067125,67.5 7,67.5 C8.932875,67.5 10.5,69.067125 10.5,71 C10.5,72.932875 8.932875,74.5 7,74.5 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
