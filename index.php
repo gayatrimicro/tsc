@@ -155,6 +155,9 @@
             <h1 class="intro-text__title intro-text__title--large">
                Welcome to Texas Specialty Clinic    
             </h1>
+            <h2 class="intro-text_sub_title intro-text__title--large">
+               A COMMUNITY CLINIC FOR EVERYONE  
+            </h2>
             <p class="intro-text__text">
                We believe in a medical facility which serves the entire family, which doesn't send you to other facilities to get pieces of your diagnosis.  
             </p>
@@ -167,9 +170,9 @@
                   <div class="featured-block__imgOverlay"></div>
                </div>
                <div class="featured-block__info">
-                  <h2 class="featured-block__title featured-block__title--pink">Primary Care <i class="featured-block__icon fas fa-chevron-right"></i></h2>
+                  <h2 class="featured-block__title featured-block__title--orange">Primary Care <i class="featured-block__icon fas fa-chevron-right"></i></h2>
                   <p class="featured-block__text">At Expecare, primary care means remarkable care. Our providers are focused on you.</p>
-                  <span class="featured-block__button button button--pink">Learn more</span>
+                  <span class="featured-block__button button button--orange">Learn more</span>
                </div>
             </a>
             <a href="services/occupational-health-care/" class="featured-block">
@@ -177,9 +180,9 @@
                   <div class="featured-block__imgOverlay"></div>
                </div>
                <div class="featured-block__info">
-                  <h2 class="featured-block__title featured-block__title--lime">Occupational Medicine <i class="featured-block__icon fas fa-chevron-right"></i></h2>
+                  <h2 class="featured-block__title featured-block__title--orange">Occupational Medicine <i class="featured-block__icon fas fa-chevron-right"></i></h2>
                   <p class="featured-block__text">Expecare is dedicated to medical, health and wellness services for the workplace.</p>
-                  <span class="featured-block__button button button--lime">Learn more</span>
+                  <span class="featured-block__button button button--orange">Learn more</span>
                </div>
             </a>
             <a href="services/urgent-care/" class="featured-block">
@@ -202,9 +205,9 @@
                   <div class="featured-block__imgOverlay"></div>
                </div>
                <div class="featured-block__info">
-                  <h2 class="featured-block__title featured-block__title--pink">Diagnostic Services<i class="featured-block__icon fas fa-chevron-right"></i></h2>
+                  <h2 class="featured-block__title featured-block__title--orange">Diagnostic Services<i class="featured-block__icon fas fa-chevron-right"></i></h2>
                   <p class="featured-block__text">We are highly committed to provide the community with superior quality, patient-focused diagnostic services.</p>
-                  <span class="featured-block__button button button--pink">Learn more</span>
+                  <span class="featured-block__button button button--orange">Learn more</span>
                </div>
             </a>
             <a href="services/iv-infusion/" class="featured-block">
@@ -212,9 +215,9 @@
                   <div class="featured-block__imgOverlay"></div>
                </div>
                <div class="featured-block__info">
-                  <h2 class="featured-block__title featured-block__title--lime">IV Infusion <i class="featured-block__icon fas fa-chevron-right"></i></h2>
+                  <h2 class="featured-block__title featured-block__title--orange">IV Infusion <i class="featured-block__icon fas fa-chevron-right"></i></h2>
                   <p class="featured-block__text">Infusion Therapy Services at our urgent care clinics keeps you out of the hospital environment while treating dehydrations, pneumonia, and more.</p>
-                  <span class="featured-block__button button button--lime">Learn more</span>
+                  <span class="featured-block__button button button--orange">Learn more</span>
                </div>
             </a>
             <a href="services/auto-accident-treatment/" class="featured-block">
@@ -231,7 +234,7 @@
          </div><br>
 <div class="" style="text-align: center;">
         
-        <a href="services" style="background: #68b93a;" class="button button--orange">&nbsp;KNOW MORE SERVICES&nbsp;</a>
+        <a href="services" class="button button--grey">&nbsp;KNOW MORE SERVICES&nbsp;</a>
       </div>
       </section>
 

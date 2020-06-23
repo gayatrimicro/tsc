@@ -111,7 +111,7 @@
                     <li class="inner-hero__breadcrumbsItem">PrEP</li>
             </div>
             <div class="inner-hero__col  inner-hero__col--full ">
-                <h2 class="inner-hero__title inner-hero__title--orange">PREP</h2>
+                <h2 class="inner-hero__title inner-hero__title--orange">PrEP</h2>
               
             </div>
 

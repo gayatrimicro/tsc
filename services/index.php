@@ -129,7 +129,7 @@
 
 <br>
 
- <a href="auto-accident-treatment" class="text-image-block__button button button--purple">Read more</a>
+ <a href="auto-accident-treatment" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -148,7 +148,7 @@
                 <p class="text-image-block__text">
                     <p>The diagnostic services at Texas Specialty clinic is a perfect combination of expertise and commitment. Poised to deliver top class services we are equipped with the most advanced instruments managed by the experienced physicians, nurses, technicians, technologists, administrators, as well as program assistants and analysts. Known for its professional and dedicated services, our center ensures timely, cost-effective, and high-quality diagnostic care.<br>
 
- <a href="diagnostic-services/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="diagnostic-services/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -171,7 +171,7 @@
 
 <br>
 
- <a href="iv-infusion/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="iv-infusion/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -196,7 +196,7 @@
 
 <br>
 
- <a href="occupational-health-care/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="occupational-health-care/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -219,7 +219,7 @@
 
 <br>
 
- <a href="physical-therapy/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="physical-therapy/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -241,7 +241,7 @@
 
 <br>
 
- <a href="podiatry-treatment" class="text-image-block__button button button--purple">Read more</a>
+ <a href="podiatry-treatment" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -265,7 +265,7 @@
 
 <br>
 
- <a href="prep/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="prep/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -287,7 +287,7 @@
 
 <br>
 
- <a href="primary-care" class="text-image-block__button button button--purple">Read more</a>
+ <a href="primary-care" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -309,7 +309,7 @@
 
 <br>
 
- <a href="iv-nutritional-therapy/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="iv-nutritional-therapy/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
             </div>
         </div>
@@ -326,7 +326,7 @@
 
 <br>
 
- <a href="travel-medicine" class="text-image-block__button button button--purple">Read more</a>
+ <a href="travel-medicine" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      
@@ -351,7 +351,7 @@
 
 <br>
 
- <a href="urgent-care/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="urgent-care/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
             </div>
         </div>
@@ -368,7 +368,7 @@
                 <p class="text-image-block__text">
                     <p>Oncology or cancer treatments are increasingly being more developed and we at the oncology department in Texas Specialty Clinic are continually progressing to provide most effective and better-targeted treatments. <br>
 
- <a href="oncology/" class="text-image-block__button button button--purple">Read more</a>
+ <a href="oncology/" class="text-image-block__button button button--grey">Read more</a>
                     </p>
 
                      

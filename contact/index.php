@@ -103,11 +103,11 @@
                <li class="inner-hero__breadcrumbsItem">Contact</li>
             </div>
             <div class="inner-hero__col ">
-               <h2 class="inner-hero__title inner-hero__title--gold">Contact us</h2>
+               <h2 class="inner-hero__title inner-hero__title--orange">Contact us</h2>
                <p class="inner-hero__text">Get in touch with Texas Specialty Clinic.</p>
             </div>
             <div class="inner-hero__col inner-hero__col--small inner-hero__col--center">
-               <a href="https://www.google.com/maps/search/Texas+Specialty+Clinic+2700+W.+Pleasant+Run+Rd.+Lancaster,+TX+75146/@32.6036086,-96.8188723,17z/data=!3m1!4b1" target='_blank' class="inner-hero__right button button--pink">Get Directions</a>
+               <a href="https://www.google.com/maps/search/Texas+Specialty+Clinic+2700+W.+Pleasant+Run+Rd.+Lancaster,+TX+75146/@32.6036086,-96.8188723,17z/data=!3m1!4b1" target='_blank' class="inner-hero__right button button--grey">Get Directions</a>
             </div>
          </div>
       </section>
@@ -145,16 +145,16 @@
                   </p>
                </div>
                <ul class="social-icons social-icons--pink social-icons--large">
-                  <li class="social-icons__item">
+                  <!-- <li class="social-icons__item">
                      <a href="https://twitter.com/TxSpecialty" target="_blank" class="social-icons__link"><i class="fab fa-twitter"></i></a>
-                  </li>
+                  </li> -->
                   <li class="social-icons__item">
                      <a href="https://www.facebook.com/txspecialty" target="_blank" class="social-icons__link"><i class="fab fa-facebook"></i></a>
                   </li>
                 
-                  <li class="social-icons__item">
+                  <!-- <li class="social-icons__item">
                      <a href="https://www.instagram.com/txspecialty/" target="_blank" class="social-icons__link"><i class="fab fa-instagram"></i></a>
-                  </li>
+                  </li> -->
                </ul>
             </div>
             <div class="contact__col contact__col--large">

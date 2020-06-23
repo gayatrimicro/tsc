@@ -770,7 +770,8 @@ img {
 }.container, .header__brandContainer, .header__navigationContainer {
 /*	max-width: 1220px;*/
 	width: 90%;
-	margin: 0 auto
+	margin: 0 auto;
+	text-align: center;
 }
 .container--small {
 	max-width: 960px
@@ -900,7 +901,7 @@ select {
 	color: #fff
 }
 .gform_body input[type=text],input[type=email] {
-	border-radius: 4px;
+	border-radius: 50px;
 	background: #fff;
 	height: 50px;
 	text-indent: 15px;
@@ -992,8 +993,9 @@ select {
 	justify-content: space-between
 }
 .header__brandLogo {
-	float: left;
-	display: block
+	/*float: left;*/
+	display: block;
+	margin: 0 auto;
 }
 .header__brandIcon {
 	width: 125px;
@@ -1112,7 +1114,8 @@ select {
 .header__navigation {
 	width: 100%;
 	/*background-color: #948335;*/
-	background-color:#193E95;
+	background-color:#606161;
+	/*background-color:#193E95;*/
 	display: none;
 	margin: 0
 }
@@ -1120,9 +1123,10 @@ select {
 	position: relative
 }
 .header__list {
-	width: 100%;
+	/*width: 100%;*/
+	text-align: center;
 	display: -ms-flexbox;
-	display: flex;
+	display: inline-block;
 	-ms-flex-direction: row;
 	flex-direction: row;
 	-ms-flex-pack: justify;
@@ -1132,7 +1136,8 @@ select {
 .header__list li.header__list__item {
 	position: static;
 	display: block;
-	padding: .7rem 0
+	padding: .7rem 1.5rem;
+	display: inline-block;
 }
 .header__list li.header__list__item.parentNavItem a {
 	display: -ms-flexbox;
@@ -1186,7 +1191,7 @@ select {
 	transition: .25s ease-in-out
 }
 .header__list a:hover {
-	color: #75e610
+	color: #DA471F
 }
 .header__list .dropdown {
 	/*max-width: 77.563rem;*/
@@ -1322,7 +1327,7 @@ select {
 	padding: .5em 0
 }
 .header__list .dropdown li a:hover {
-	color: #6ed616
+	color: #DA471F
 }
 @media (min-width:374px) {
 	.header__brandOptsItem--donate {
@@ -1591,13 +1596,13 @@ select {
 	}
 	.footer__ctaImage {
 		display: block;
-		width: 163px;
-		height: 190px;
+		width: 80px;
+		height: 80px;
 		float: left;
-		margin-right: 2.5rem
+		/*margin-top: 1.5rem*/
 	}
 	.footer__col {
-		width: 48%;
+		width: 70%;
 		margin-right: 2%
 	}
 	.footer__col:last-of-type {
@@ -1625,7 +1630,7 @@ select {
 }
 .footer-header__background {
 	padding: 1.55rem 0;
-	background: #193E95;
+	background: #606161;
 	-ms-flex-pack: center;
 	justify-content: center
 }
@@ -1637,7 +1642,7 @@ select {
 	margin-bottom: 0
 }
 .footer-header__item:first-of-type a {
-	color: #75ce26
+	color: #fff
 }
 .footer-header__item a {
 	font-size: 1rem;
@@ -1647,7 +1652,7 @@ select {
 	font-weight: 900
 }
 .footer-header__item a:hover {
-	color: #75ce26
+	color: #DA471F
 }
 @media (min-width:767px) {
 	.footer-header {
@@ -1891,7 +1896,7 @@ select {
 	position: absolute;
 	width: 100%;
 	height: 6px;
-	background: #193E95;
+	background: #DA471F;
 	bottom: 0;
 	z-index: 300
 }
@@ -1927,6 +1932,17 @@ select {
 		justify-content: center
 	}
 }
+#arrows{
+	padding: 18px 22px;
+	position: absolute;
+    top: 0;
+    right: -18px;
+}
+#trans{
+	position: absolute !important;
+    right: 13% !important;
+    top: 8% !important;
+}
 .button, .gform_button, .ginput_container_fileupload label {
 	outline: 0;
 	-webkit-appearance: none;
@@ -1942,7 +1958,8 @@ select {
 	box-shadow: 0 10px 10px 0 rgba(71, 10, 104, .1);
 	transition: .25s ease-in-out;
 	appearance: none;
-	border: none
+	border: none;
+	
 }
 .button:hover, .gform_button:hover, .ginput_container_fileupload label:hover {
 	-ms-transform: scale(1.075);
@@ -1961,7 +1978,7 @@ select {
 }
 .button--pink {
 	background: #1a4690;
-	box-shadow: 0 10px 10px 0 rgba(68, 63, 40, 0.25)
+	/*box-shadow: 0 10px 10px 0 rgba(68, 63, 40, 0.25)*/
 }
 .button--black, .ginput_container_fileupload label {
 	background: #1c0f23;
@@ -1988,7 +2005,7 @@ select {
 	transform: scale(1)
 }
 .button--cc, .button--teal, .gform_button {
-	background: #1a4690;
+	background: #DA471F;
 	box-shadow: 0 10px 10px 0 rgba(0, 191, 179, .1)
 }
 .button--lime {
@@ -1996,7 +2013,7 @@ select {
 	box-shadow: 0 10px 10px 0 rgba(132, 189, 0, .15)
 }
 .button--orange {
-	background: #1a4690;
+	background: #DA471F;
 	box-shadow: 0 10px 10px 0 rgba(255, 130, 0, .1)
 }
 .button--off-white {
@@ -2004,7 +2021,7 @@ select {
 	color: #1c0f23
 }
 .button--grey {
-	background: #999;
+	background: #606161;
 	box-shadow: 0 10px 10px 0 hsla(280, 6%, 59%, .1)
 }
 .button--stone {
@@ -2045,12 +2062,21 @@ select {
 	text-align: center
 }
 .intro-text__title {
-	color: #193e95;
+	color: #DA471F;
 	font-size: 1.875rem;
 	letter-spacing: -.56px;
 	line-height: 40px;
 	margin-top: 0;
 	margin-bottom: 20px;
+	max-width: 760px
+}
+.intro-text_sub_title {
+	color: #606161;
+	font-size: 24px !important;
+	letter-spacing: 3px !important;
+	line-height: 40px;
+	margin-top: 0;
+	margin-bottom: 0px;
 	max-width: 760px
 }
 .intro-text__text {
@@ -2139,7 +2165,7 @@ select {
 	color: #68b93a
 }
 .featured-block__title--orange {
-	color: #68b93a
+	color: #606161
 }
 .featured-block__title--off-white {
 	color: #f6f6f6
@@ -3004,7 +3030,7 @@ select {
 	font-size: 1.5rem;
 	letter-spacing: -.8px;
 	line-height: 30px;
-	color: #193e95;
+	color: #DA471F;
 	font-weight: 700
 }
 .text-image-block__text a {
@@ -3625,7 +3651,7 @@ select {
 	color: #84bd00
 }
 .inner-hero__title--orange {
-	color: #68b93a
+	color: #DA471F
 }
 .inner-hero__title--off-white {
 	color: #f6f6f6
@@ -3800,7 +3826,7 @@ select {
 		font-size: 3.125rem;
 		letter-spacing: -.87px;
 		line-height: 50px;
-		max-width: 660px
+		max-width: 560px
 	}
 	.inner-hero__text {
 		max-width: 560px
@@ -5835,7 +5861,7 @@ select::-ms-expand {
 	}
 }
 .company-footer {
-	background: #193E95;
+	background: #DA471F;
 	width: 100%;
 	display: -ms-flexbox;
 	display: flex;
@@ -6294,7 +6320,7 @@ select::-ms-expand {
 }
 .gform_body {
 	width: 100%;
-	background: #7bb24a;
+	background: #606161;
 	padding: 1rem 0;
 	border-radius: 6px;
 	display: -ms-flexbox;
@@ -6605,5 +6631,16 @@ select::-ms-expand {
 }
 .flickity-page-dots .dot.is-selected {
 	opacity: 1
+}
+
+#newsletter-box{
+	width: 25% !important;
+
+}
+@media (max-width: 600px){
+	#newsletter-box{
+		width: 95% !important;
+
+	}
 }
 /*# sourceMappingURL=style.css.map*/

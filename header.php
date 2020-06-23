@@ -56,24 +56,24 @@
             <div class="header__brandContainer">
                <a href="http://texasspecialtyclinic.com/" class="header__brandLogo">
                <img src="http://texasspecialtyclinic.com/assets/images/logo.png" alt="" title="" class="header__brandIcon header__brandIcon--desktop">
-               <img src="http://texasspecialtyclinic.com/assets/images/mobilelogo.png" alt="" title="" class="header__brandIcon header__brandIcon--mobile">
+               <img src="http://texasspecialtyclinic.com/assets/images/logo.png" alt="" title="" class="header__brandIcon header__brandIcon--mobile">
                </a>
                <ul class="header__brandOpts">
                   <ul class="social-icons social-icons--header">
-                     <li class="social-icons__item">
+                     <!-- <li class="social-icons__item">
                         <a href="https://twitter.com/TxSpecialty" target="_blank" class="social-icons__link"><i class="fab fa-twitter"></i></a>
-                     </li>
+                     </li> -->
                      <li class="social-icons__item">
                         <a href="https://www.facebook.com/txspecialty" target="_blank" class="social-icons__link"><i class="fab fa-facebook"></i></a>
                      </li>
                   
-                     <li class="social-icons__item">
+                     <!-- <li class="social-icons__item">
                         <a href="https://www.instagram.com/txspecialty/" target="_blank" class="social-icons__link"><i class="fab fa-instagram"></i></a>
-                     </li>
+                     </li> -->
                   </ul>
                  
                  
-                  <li class="header__brandOptsItem translateli">
+                  <li class="header__brandOptsItem translateli" id="trans">
                         <div id="google_translate_element">
                         </div>
                   </li>
