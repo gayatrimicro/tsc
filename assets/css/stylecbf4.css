@@ -6644,13 +6644,6 @@ select::-ms-expand {
 		width: 95% !important;
 
 	}
-}
-/*# sourceMappingURL=style.css.map*/
-@media (max-width: 800px){
-	.header__brandIcon {
-		width: 150px;
-		height: auto
-	}
 	.intro-text_sub_title {
     color: #606161;
     font-size: 17px !important;
@@ -6660,6 +6653,14 @@ select::-ms-expand {
     margin-bottom: 0px;
     max-width: 760px;
 }
+}
+/*# sourceMappingURL=style.css.map*/
+@media (max-width: 800px){
+	.header__brandIcon {
+		width: 150px;
+		height: auto
+	}
+
 	#trans {
     position: absolute !important;
     right: 13% !important;
