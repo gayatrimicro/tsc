@@ -68,7 +68,7 @@ Lancaster, TX 75146   -->
 
                      <a href="mailto:info@texasspecialtyclinic.com">info@TexasSpecialtyClinic.com</a> </br>
                         Phone: <a href="tel:(888) 871-1883">(888) 871-1883</a><br>
-                        Fax:<a href="(888) 900-4530"> (888) 900-4530</a>
+                        Fax: (888) 900-4530
 
 
                   </div>
@@ -78,9 +78,13 @@ Lancaster, TX 75146   -->
                   <div class="footer__col">
                     
                      <p class="footer__textarea">
-                      <b>Oak Lawn Location:</b><br>
+
+                      <b>Oak Lawn Location: </b><br>
                     2603 Oaklawn Avenue, Suite 101<br>
-                    Dallas, TX  75219   <br><br>
+                    Dallas, TX  75219   <br>
+                    <b><a href="https://www.tscoaklawn.com/" target="_blank" style="text-decoration: underline;">Oak Lawn Location</a></b> 
+                    <!-- <a href="https://www.tscoaklawn.com/" style="color: blue;text-decoration: underline;">www.tscoaklawn.com</a> -->
+
                         <!-- <a href="mailto:info@texasspecialtyclinic.com">info@TexasSpecialtyClinic.com</a> </br>
                         Phone: <a href="tel:(888) 871-1883">(888) 871-1883</a><br>
                         Fax:<a href="(888) 900-4530"> (888) 900-4530</a> -->
@@ -141,7 +145,7 @@ Lancaster, TX 75146   -->
                         <input required type="email" value="" name="EMAIL" class="required footer__signupInput" id="mce-EMAIL" placeholder="Email Address">
                         <button class="footer_signupButton button button--pink" id="arrows"><i class="fas fa-angle-right"></i></button><div id="submsg" style="display:none;margin-top:5px;color:white;">Subscribed to our newsletter</div>
                      </form>
-                     <img src="http://texasspecialtyclinic.com/assets/images/logo.png" class="footer__ctaImage" style="width: 100%;">
+                     <img src="http://texasspecialtyclinic.com/assets/images/logo.png" class="footer__ctaImage" style="width: 100%;height: auto;">
                   </div>
                </div>
             </div>

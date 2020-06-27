@@ -847,7 +847,7 @@ img {
 }
 .mobileMenuTriggerInner {
 	height: 3px;
-	background: #fff;
+	background: #606161;
 	width: 100%;
 	transition: transform .3s;
 	will-change: transform
@@ -864,7 +864,7 @@ img {
 	content: "";
 	width: 100%;
 	height: 3px;
-	background: #fff;
+	background: #606161;
 	position: absolute;
 	left: 0;
 	transition: transform .3s;
@@ -1007,6 +1007,8 @@ select {
 .header__brandIcon--mobile {
 	display: block
 }
+
+
 .header__brandOpts {
 	padding: 0;
 	margin: 5px 0;
@@ -6644,3 +6646,19 @@ select::-ms-expand {
 	}
 }
 /*# sourceMappingURL=style.css.map*/
+@media (max-width: 800px){
+	.header__brandIcon {
+		width: 150px;
+		height: auto
+	}
+	#trans {
+    position: absolute !important;
+    right: 13% !important;
+    top: 0 !important;
+}
+	.header__brandLogo {
+		/*float: left;*/
+		display: block;
+		margin: 0;
+	}
+}

@@ -81,9 +81,9 @@
             }
          })('index60cf.html?wordfence_lh=1&amp;hid=1C224F9B66D9050A50C1D89D611D4A68');
       </script>
-      <link rel="icon" href="assets/images/favicon-32x32.jpg" sizes="32x32" />
-         <link rel="icon" href="assets/images/favicon-192x192.jpg" sizes="192x192" />
-         <link rel="apple-touch-icon-precomposed" href="assets/images/favicon-180x180.jpg" />
+      <link rel="icon" href="assets/images/favicon-32x32.png" sizes="32x32" />
+         <link rel="icon" href="assets/images/favicon-192x192.png" sizes="192x192" />
+         <link rel="apple-touch-icon-precomposed" href="assets/images/favicon-180x180.png" />
       <script
          src="assets/js/jquery-2.2.4.min.js"
          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
@@ -97,8 +97,8 @@
      
       <section class="heroSlider section">
          <div class="heroSlider__slidesHold slide-hold">
-            <div class="heroSlider__slide slide" style="background-image: url('assets/images/slider1.jpg')">
-               <div class="heroSlider__slideOverlay"></div>
+            <div class="heroSlider__slide slide" style="background-image: url('assets/images/1.png')">
+               <!-- <div class="heroSlider__slideOverlay"></div> -->
                <div class="heroSlider__slideContent">
                   <h1 class="heroSlider__slideTitle">CONVENIENT</h1>
                   <p class="heroSlider__slideText">A medical facility for your
@@ -108,8 +108,8 @@
                  
                </div>
             </div>
-            <div class="heroSlider__slide slide" style="background-image: url('assets/images/slider2.jpg')">
-               <div class="heroSlider__slideOverlay"></div>
+            <div class="heroSlider__slide slide" style="background-image: url('assets/images/2.png')">
+               <!-- <div class="heroSlider__slideOverlay"></div> -->
                <div class="heroSlider__slideContent">
                   <h1 class="heroSlider__slideTitle">INNOVATION</h1>
                   <p class="heroSlider__slideText">A unique clinic experience
@@ -121,16 +121,16 @@
                  
                </div>
             </div>
-            <div class="heroSlider__slide slide" style="background-image: url('assets/images/slider3.jpg')">
-               <div class="heroSlider__slideOverlay"></div>
+            <div class="heroSlider__slide slide" style="background-image: url('assets/images/3.png')">
+               <!-- <div class="heroSlider__slideOverlay"></div> -->
                <div class="heroSlider__slideContent">
                   <h1 class="heroSlider__slideTitle">QUICK</h1>
                   <p class="heroSlider__slideText">A hassle-free experience 7 days a week and you<br>never need an appointment</p>
                  
                </div>
             </div>
-            <div class="heroSlider__slide slide" style="background-image: url('assets/images/slider4.jpg')">
-               <div class="heroSlider__slideOverlay"></div>
+            <div class="heroSlider__slide slide" style="background-image: url('assets/images/4.png')">
+               <!-- <div class="heroSlider__slideOverlay"></div> -->
                <div class="heroSlider__slideContent">
                   <h1 class="heroSlider__slideTitle">AFFORDABLE</h1>
                   <p class="heroSlider__slideText">Most affordable cash-pay rates and we accept all major insurances including Medicare & Tricare.</p>
@@ -140,10 +140,10 @@
          </div>
          <div class="heroSlider__slideThumbs">
             <ul class="heroSlider__slideThumbList slide-thumb-list">
-               <button class="heroSlider__slideThumbItem slide-thumb-item  slide-active " style="background-image: url('assets/images/slider1.jpg')"></button>
+               <!-- <button class="heroSlider__slideThumbItem slide-thumb-item  slide-active " style="background-image: url('assets/images/slider1.jpg')"></button>
                <button class="heroSlider__slideThumbItem slide-thumb-item " style="background-image: url('assets/images/slider2.jpg')"></button>
                <button class="heroSlider__slideThumbItem slide-thumb-item " style="background-image: url('assets/images/slider3.jpg')"></button>
-               <button class="heroSlider__slideThumbItem slide-thumb-item " style="background-image: url('assets/images/slider4.jpg')"></button>
+               <button class="heroSlider__slideThumbItem slide-thumb-item " style="background-image: url('assets/images/slider4.jpg')"></button> -->
             </ul>
          </div>
          <div class="heroSlider__slideProgress">

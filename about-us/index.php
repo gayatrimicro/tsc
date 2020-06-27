@@ -81,13 +81,13 @@
             }
          })('index60cf.html?wordfence_lh=1&amp;hid=1C224F9B66D9050A50C1D89D611D4A68');
       </script>
-      <link rel="icon" href="../assets/images/favicon-32x32.jpg" sizes="32x32" />
-         <link rel="icon" href="../assets/images/favicon-192x192.jpg" sizes="192x192" />
-         <link rel="apple-touch-icon-precomposed" href="../assets/images/favicon-180x180.jpg" />
-      <script
+      <link rel="icon" href="../assets/images/favicon-32x32.png" sizes="32x32" />
+         <link rel="icon" href="../assets/images/favicon-192x192.png" sizes="192x192" />
+         <link rel="apple-touch-icon-precomposed" href="../assets/images/favicon-180x180.png" />
+      <!-- <script
          src="../assets/js/jquery-2.2.4.min.js"
          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-         crossorigin="anonymous"></script>
+         crossorigin="anonymous"></script> -->
       <script src="../assets/js/flickity.pkgd.min.js"></script>
    </head>
 
