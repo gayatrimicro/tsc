@@ -6651,6 +6651,15 @@ select::-ms-expand {
 		width: 150px;
 		height: auto
 	}
+	.intro-text_sub_title {
+    color: #606161;
+    font-size: 17px !important;
+    letter-spacing: 1px !important;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    max-width: 760px;
+}
 	#trans {
     position: absolute !important;
     right: 13% !important;
