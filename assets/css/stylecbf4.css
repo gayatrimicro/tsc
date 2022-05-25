@@ -1563,10 +1563,10 @@ select {
 	margin-bottom: 10px
 }
 .footer__signupText {
-	font-size: 1rem;
-	line-height: 20px;
-	color: #000;
-	margin: 10px auto 20px
+	font-size: 17px;
+    line-height: 30px;
+    color: #000;
+    margin: 10px auto 20px;
 }
 .footer__signupInput {
 	width: 100%;
@@ -1604,7 +1604,7 @@ select {
 		/*margin-top: 1.5rem*/
 	}
 	.footer__col {
-		width: 70%;
+		width: 100%;
 		margin-right: 2%
 	}
 	.footer__col:last-of-type {
