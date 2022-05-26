@@ -171,237 +171,82 @@
     </section>
 
      <section class="section section--white">
-        <div class="container text-image-block " style="justify-content: center;">
-            
+        <div class="container text-image-block " style="justify-content: space-around;">
+          <style type="text/css">
+              div p{
+                font-size: larger;
+              }
+              .box-card{
+                text-align: left;
+                margin: 5rem 0rem;
+                padding: 0 2rem;
+              }
+              .heading-main{
+                font-weight: 900;
+                color: #da471f;
+              }
+              @media (max-width: 786px){
+                .box-card{
+                  text-align: left;
+                  margin: 3rem 0rem;
+                  padding: 0 2rem;
+                }
+                .last-card{
+                  margin-bottom: 0px;
+                }
+              }
+
+          </style>  
             <div class="">
                 
 
-                <div class="accordion width desk" id="accordionHorizontalExample">
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseOne">
-                      TSC Lancaster
-                    </div>
+              <div class="box-card">
+                <h2 class="heading-main">Lancaster</h2><br>
+                <p>Michael Smith, M.D. </p>
+                <p>Sohail Saeed, D.O. </p>
+                <p>Abraham Chukwu, M.D. </p>
+                <p>Galvan Edward, FNP</p>
+                <p>Lyn Leach, PAC</p>
+              </div>
 
-                    <div id="collapseOne" class="collapse show width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Lancaster</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Michael Smith M.D. </li>
-                          <li>Dr. Sohail Saeed D.O. </li>
-                          <li>Dr. Abraham Chukwu M.D. </li>
-                          <li>Galvan Edward FNP</li>
-                          <li>Lyn Leach PAC</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseTwo">
-                      TSC Oaklawn
-                    </div>
-                    <div id="collapseTwo" class="collapse width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Oaklawn</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Nicholas Bellos M.D.</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseThree">
-                      TSC Hillsboro
-                    </div>
-                    <div id="collapseThree" class="collapse width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Hillsboro</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Abraham Chukwu M.D.</li>
-                          <li>Galvan Edward FNP</li>
-                          <li>Catana Villarreal FNP</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
+              <div class="box-card">
+                <h2 class="heading-main">Oaklawn</h2><br>
+                <p>Nicholas Bellos, M.D. </p>
+              </div>
+
+              <div class="box-card last-card">
+                <h2 class="heading-main">Grand Prairie</h2><br>
+                <p>Abraham Chukwu, M.D.</p>
+              </div>
 
 
-
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseFour">
-                      TSC Midland
-                    </div>
-                    <div id="collapseFour" class="collapse width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Midland</b></p>
-                        <ol style="text-align: left;">
-                          <li>Michael Smith M.D. </li>
-                          <li>Victoria Martinez FNP</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-
-
-
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseFive">
-                      TSC Grand Prairie
-                    </div>
-                    <div id="collapseFive" class="collapse width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Grand Prairie</b></p>
-                        <ol style="text-align: left;">
-                          <li>Abraham Chukwu M.D. </li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-
-
-
-                  <div class="card">
-                    <div class="card-header" data-toggle="collapse" data-target="#collapseSix">
-                      TSC Farmers Branch
-                    </div>
-                    <div id="collapseSix" class="collapse width" data-parent="#accordionHorizontalExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Farmers Branch</b></p>
-                        <ol style="text-align: left;">
-                          <li>Michael Smith M.D. </li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+</div>
 
 
 
 
 
+             <div class="">         
+                    
+              <div class="box-card">
+                <h2 class="heading-main">Hillsboro</h2><br>
+                <p>Abraham Chukwu, M.D.</p>
+                <p>Galvan Edward, FNP</p>
+                <p>Catana Villarreal, FNP</p>
+              </div>
+
+              <div class="box-card">
+                <h2 class="heading-main">Midland</h2><br>
+                <p>Michael Smith, M.D. </p>
+                <p>Victoria Martinez, FNP </p>
+              </div>
+
+              <div class="box-card">
+                <h2 class="heading-main">Farmers Branch</h2><br>
+                <p>Michael Smith, M.D.</p>
+              </div>  
 
 
-
-
-
-
-                <div class="accordion mob5" id="accordionExample">
-                  <div class="card">
-                    <div class="card-header" id="headingOne">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOnemob" aria-expanded="true" aria-controls="collapseOne" style="color: #fff;font-weight: 900;">
-                          TSC Lancaster
-
-                        </button>
-                      </h2>
-                    </div>
-
-                    <div id="collapseOnemob" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Lancaster</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Michael Smith M.D. </li>
-                          <li>Dr. Sohail Saeed D.O. </li>
-                          <li>Dr. Abraham Chukwu M.D. </li>
-                          <li>Galvan Edward FNP</li>
-                          <li>Lyn Leach PAC</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingTwo">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwomob" aria-expanded="false" aria-controls="collapseTwo" style="color: #fff;font-weight: 900;">
-                          TSC Oaklawn
-
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseTwomob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Oaklawn</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Nicholas Bellos M.D.</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingThree">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThreemob" aria-expanded="false" aria-controls="collapseThree" style="color: #fff;font-weight: 900;">
-                          TSC Hillsboro
-
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseThreemob" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Hillsboro</b></p>
-                        <ol style="text-align: left;">
-                          <li>Dr. Abraham Chukwu M.D.</li>
-                          <li>Galvan Edward FNP</li>
-                          <li>Catana Villarreal FNP</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingFour">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourmob" aria-expanded="false" aria-controls="collapseFourmob" style="color: #fff;font-weight: 900;">
-                          TSC Midland
-
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseFourmob" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Midland</b></p>
-                        <ol style="text-align: left;">
-                          <li>Michael Smith M.D. </li>
-                          <li>Victoria Martinez FNP</li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingFive">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFivemob" aria-expanded="false" aria-controls="collapseFivemob" style="color: #fff;font-weight: 900;">
-                          TSC Grand Prairie
-
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseFivemob" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Grand Prairie</b></p>
-                        <ol style="text-align: left;">
-                          <li>Abraham Chukwu M.D. </li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header" id="headingSix">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSixmob" aria-expanded="false" aria-controls="collapseSixmob" style="color: #fff;font-weight: 900;">
-                          TSC Farmers Branch
-
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseSixmob" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <p style="text-align: left;font-size:20px;"><b>Our Providers in Farmers Branch</b></p>
-                        <ol style="text-align: left;">
-                          <li>Michael Smith M.D. </li>
-                        </ol>
-                      </div>
-                    </div>
-                  </div>
-                </div>
 
 
 

@@ -131,7 +131,7 @@
                   </li> -->
                    <li class="header__list__item  header__list__item--520"><a href="http://texasspecialtyclinic.com/request-an-appointment/">Request an appointment</a></li>
 
-                  <!-- <li class="header__list__item  header__list__item--520"><a href="http://texasspecialtyclinic.com/events/">Events</a></li> -->
+                  <li class="header__list__item  header__list__item--520"><a href="http://texasspecialtyclinic.com/providers/">Our Providers</a></li>
                 
                   <li class="header__list__item  header__list__item--520"><a href="http://texasspecialtyclinic.com/contact/">Contact Us</a></li>
                
@@ -156,19 +156,19 @@
                   <a href="">Services</a>
                   <div class="dropdown">
                      <ul class="mobile-menu__nav__sub-menu mobile-menu__nav__sub-menu--1">
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--550"><a target="_blank" href="http://texasspecialtyclinic.com/services/auto-accident-treatment/">Auto Accident Treatment</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--549"><a target="_blank" href="http://texasspecialtyclinic.com/services/diagnostic-services/">Diagnostic Services</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--548"><a target="_blank" href="http://texasspecialtyclinic.com/services/iv-infusion">IV Infusion</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/iv-nutritional-therapy/">Iv Nutritional Therapy</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/occupational-health-care/">Occupational Health Care</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="">Oncology</a></li>
-                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/physical-therapy/">Physical Therapy</a></li>
-                         <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/podiatry-treatment/">Podiatry Treatment</a></li>
-                          <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/prep/">PrEP</a></li>
-                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/primary-care/">Primary Care</a></li>
-                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/travel-medicine/">Travel Medicine</a></li>
-                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="http://texasspecialtyclinic.com/services/urgent-care/">Urgent Care</a></li>
-                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a target="_blank" href="#">Telemedicine</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--550"><a href="http://texasspecialtyclinic.com/services/auto-accident-treatment/">Auto Accident Treatment</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--549"><a href="http://texasspecialtyclinic.com/services/diagnostic-services/">Diagnostic Services</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--548"><a href="http://texasspecialtyclinic.com/services/iv-infusion">IV Infusion</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/iv-nutritional-therapy/">Iv Nutritional Therapy</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/occupational-health-care/">Occupational Health Care</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="">Oncology</a></li>
+                        <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/physical-therapy/">Physical Therapy</a></li>
+                         <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/podiatry-treatment/">Podiatry Treatment</a></li>
+                          <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/prep/">PrEP</a></li>
+                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/primary-care/">Primary Care</a></li>
+                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/travel-medicine/">Travel Medicine</a></li>
+                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="http://texasspecialtyclinic.com/services/urgent-care/">Urgent Care</a></li>
+                           <li class="mobile-menu__nav__sub-menu__item mobile-menu__nav__sub-menu--1__item  mobile-menu__nav__item--3836"><a href="#">Telemedicine</a></li>
                            
                      </ul>
                   </div>
@@ -187,12 +187,12 @@
                   </div>
                </li> -->
 
-             <li class="mobile-menu__nav__item  mobile-menu__nav__item--520"><a href="http://texasspecialtyclinic.com/request-an-appointment/" target="_blank">Request an appointment</a></li>
+             <li class="mobile-menu__nav__item  mobile-menu__nav__item--520"><a href="http://texasspecialtyclinic.com/request-an-appointment/">Request an appointment</a></li>
 
 
-               <!-- <li class="mobile-menu__nav__item  mobile-menu__nav__item--520"><a href="http://texasspecialtyclinic.com/events/" target="_blank">Events</a></li> -->
+               <li class="mobile-menu__nav__item  mobile-menu__nav__item--520"><a href="http://texasspecialtyclinic.com/providers/">Our Providers</a></li>
               
-               <li class="mobile-menu__nav__item  mobile-menu__nav__item--521"><a href="http://texasspecialtyclinic.com/contact/" target="_blank">Contact</a></li>
+               <li class="mobile-menu__nav__item  mobile-menu__nav__item--521"><a href="http://texasspecialtyclinic.com/contact/">Contact</a></li>
             </ul>
          </div>
       </div>

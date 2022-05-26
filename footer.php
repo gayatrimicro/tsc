@@ -47,6 +47,9 @@
       <li class="footer-header__item  footer-header__item--106">
         <a href="http://texasspecialtyclinic.com/services/">Services</a>
       </li>
+      <li class="footer-header__item  footer-header__item--106">
+        <a href="http://texasspecialtyclinic.com/providers/">Our Providers</a>
+      </li>
       <li class="footer-header__item  footer-header__item--3513">
         <a href="http://texasspecialtyclinic.com/contact/">Contact us</a>
       </li>
@@ -60,8 +63,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Lancaster Location:</b>
-            <br> 2700 W. Pleasant Run Rd, Suite 340, <br>Lancaster, TX 75146<br>
+            <b>Lancaster</b>
+            <br> 2700 W. Pleasant Run Rd, <br>Suite 340, Lancaster, <br>TX 75146<br>
             <b>
               <a href="https://goo.gl/maps/69NhBcNw9eEPUurS9" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
@@ -70,8 +73,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Oaklawn Location: </b>
-            <br> 2603 Oak Lawn Ave., Suite.101 <br>Dallas, TX 75219<br>
+            <b>Oaklawn </b>
+            <br> 2603 Oak Lawn Ave., <br>Suite.101 Dallas, <br>TX 75219<br>
             <b>
               <a href="https://goo.gl/maps/FgYD1pmFa9aukNj68" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
@@ -80,8 +83,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Hillsboro Location: </b>
-            <br> 117 Jane Lane Hillsboro, <br>TX 76645<br>
+            <b>Hillsboro </b>
+            <br> 117 Jane Lane <br>Hillsboro, <br>TX 76645<br>
             <b>
               <a href="https://goo.gl/maps/24ui9nTbGpboPE7n6" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
@@ -92,8 +95,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Midland Location:</b>
-            <br> 1304 W Texas Avenue, <br>Midland, TX 79701<br>
+            <b>Midland</b>
+            <br> 1304 W Texas Avenue, <br>Midland, <br>TX 79701<br>
             <b>
               <a href="https://goo.gl/maps/nSaDPLQQWvc38P489" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
@@ -102,8 +105,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Grand Prairie Location: </b>
-            <br> 517 N. Carrier Parkway, <br>Grand Prairie, TX 75050<br>
+            <b>Grand Prairie </b>
+            <br> 517 N. Carrier Parkway, <br>Grand Prairie, <br>TX 75050<br>
             <b>
               <a href="https://goo.gl/maps/eEBYwMxLwi9DojtK6" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
@@ -112,8 +115,8 @@
         <img src="http://texasspecialtyclinic.com/assets/images/TSC-logo.png" class="footer__ctaImage">
         <div class="footer__col">
           <p class="footer__textarea">
-            <b>Farmers Branch Location: </b>
-            <br> 13988 Diplomat Drive, Suite 100 <br>Farmers Branch, TX 75234<br>
+            <b>Farmers Branch </b>
+            <br> 13988 Diplomat Drive, <br>Suite 100 Farmers Branch, <br>TX 75234<br>
             <b>
               <a href="https://goo.gl/maps/5dh3oBbQSK1syQhL6" target="_blank" style="text-decoration: underline;">View Map</a>
             </b>
